@@ -1,0 +1,8 @@
+{
+  "name": "josys-gws-toolkit",
+  "description": "gws CLI（Google Workspace CLI）のスキルと安全 hooks",
+  "version": "1.0.0",
+  "author": {
+    "name": "H-Noguchi-josys"
+  }
+}
