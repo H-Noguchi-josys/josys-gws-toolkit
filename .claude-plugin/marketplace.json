@@ -1,0 +1,13 @@
+{
+  "name": "josys-gws-toolkit",
+  "owner": {
+    "name": "H-Noguchi-josys"
+  },
+  "plugins": [
+    {
+      "name": "josys-gws-toolkit",
+      "source": "./",
+      "description": "gws CLI スキル + 安全 hooks"
+    }
+  ]
+}
