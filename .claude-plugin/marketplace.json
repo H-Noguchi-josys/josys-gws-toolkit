@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "josys-gws-toolkit",
-      "source": "..",
+      "source": "./plugins/josys-gws-toolkit",
       "description": "gws CLI スキル + 安全 hooks"
     }
   ]
